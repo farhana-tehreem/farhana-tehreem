@@ -20,7 +20,7 @@ I am passionate about transforming raw data into meaningful insights. My focus i
 
 ### 📫 Let's Connect:
 - **Email:** tehreemfarhanabinteshahzad@gmail.com
-
+- **Linkedin:** [Tehreem Farhana](https://www.linkedin.com/in/tehreem-farhana-62b5b737a/)
 <!--
 **farhana20gurl/farhana20gurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
