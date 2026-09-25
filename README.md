@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tehreem Farhana!
 
-**Aspiring Data Scientist & Data Analyst | BS Data Analytics**
+**Data Scientist & Data Analyst | BS Data Analytics**
 
 I am passionate about transforming raw data into meaningful insights. My focus is on leveraging programming and analytical skills to solve complex problems, build automated workflows, and create impactful data visualizations. 
 
